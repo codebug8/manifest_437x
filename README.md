@@ -30,7 +30,7 @@ REPO_URL = 'https://mirrors.tuna.tsinghua.edu.cn/git/git-repo/'
 ```
 $ mkdir -p ti437x
 $ cd ti437x
-$ repo init -u https://github.com/tinylaker/manifest -m default.xml --no-repo-verify
+$ repo init -u https://github.com/liarm/manifest_437x -m default.xml --no-repo-verify
 ```
 
 # 同步代码repo sync
