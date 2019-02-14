@@ -12,6 +12,6 @@
 	<project name="liarm/mini437x_uboot" path="uboot/uboot-2016.06" revision="master"/>
 
 	<!-- kernel -->
-	<project name="liarm/Ti437x_kernel" path="kernel/linux-4.9.69" revision="master"/>
+	<project name="liarm/mini437x_kernel" path="kernel/linux-4.9.69" revision="master"/>
 	
 </manifest>	
