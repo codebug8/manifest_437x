@@ -6,9 +6,11 @@
 ## 下载repo
 根据您的办公网络情况，从以下链接获取repo工具。
 
-`git clone https://gerrit.googlesource.com/git-repo (谷歌官方源)`
-`git clone https://mirrors.tuna.tsinghua.edu.cn/git/git-repo (国内清华源) `
-`git clone https://gerrit-googlesource.lug.ustc.edu.cn/git-repo (国内中科大源)`
+`git clone https://gerrit.googlesource.com/git-repo` (谷歌官方源)
+
+`git clone https://mirrors.tuna.tsinghua.edu.cn/git/git-repo` (国内清华源)
+
+`git clone https://gerrit-googlesource.lug.ustc.edu.cn/git-repo` (国内中科大源)
 
 
 ## 配置REPO_URL
