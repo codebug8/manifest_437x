@@ -1,12 +1,16 @@
+
 项目地址: http://wiki.100ask.org/Ti437x
 
-
 # 配置repo
+
 ## 下载repo
 根据您的办公网络情况，从以下链接获取repo工具。
-git clone https://gerrit.googlesource.com/git-repo (谷歌官方源)
-git clone https://mirrors.tuna.tsinghua.edu.cn/git/git-repo (国内清华源) 
-git clone https://gerrit-googlesource.lug.ustc.edu.cn/git-repo (国内中科大源)
+
+1. git clone https://gerrit.googlesource.com/git-repo (谷歌官方源)
+2. git clone https://mirrors.tuna.tsinghua.edu.cn/git/git-repo (国内清华源) 
+3. git clone https://gerrit-googlesource.lug.ustc.edu.cn/git-repo (国内中科大源)
+
+
 ## 配置REPO_URL
 在到构建和谐社会的前提下，需要修改REPO_URL，可参考以下修改：
 
