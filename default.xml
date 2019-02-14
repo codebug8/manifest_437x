@@ -6,10 +6,10 @@
 	<default revision="master" remote="github" sync-c="true" sync-j="4"/>
 
 	<!-- buildroot -->
-	<project name="liarm/Ti437x_buildroot2018" path="buildroot" revision="master"/>
+	<project name="liarm/buildroot2018" path="buildroot" revision="master"/>
 
 	<!-- uboot -->
-	<project name="liarm/mini437x_u-boot" path="uboot/uboot-2016.06" revision="master"/>
+	<project name="liarm/mini437x_uboot" path="uboot/uboot-2016.06" revision="master"/>
 
 	<!-- kernel -->
 	<project name="liarm/Ti437x_kernel" path="kernel/linux-4.9.69" revision="master"/>
